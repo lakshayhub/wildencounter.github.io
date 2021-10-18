@@ -12,12 +12,14 @@
     float: left;
     width: 40%;
     margin-left: 20px;
+    text-shadow: 3px 3px 20px wheat;
     
 }
 #h2{float: right;
     width: 50%;
     text-align: right;
     margin-right: 20px;
+    text-shadow: 3px 3px 20px wheat;
 }
 a{
     text-decoration: none;
@@ -62,6 +64,7 @@ hr.round{
     margin-bottom: 2em;
   border-radius: 20px;
   width: 95%;
+  box-shadow: 0 0 5px wheat;
   
   
 }
